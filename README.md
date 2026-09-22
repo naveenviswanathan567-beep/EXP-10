@@ -74,7 +74,8 @@ plt.axis('off')
 ```
 ## Output
 
-![alt text](image.png)
+<img width="391" height="406" alt="image (1)" src="https://github.com/user-attachments/assets/72834c52-7a5c-4e68-bbc7-5c06a9b085b4" />
+
 
 #### Original Image
 - The input image is displayed.
