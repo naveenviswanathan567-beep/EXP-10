@@ -42,8 +42,8 @@ Compare the original, opened, and closed images.
 
 ## Program
 #### Developed By
-#### Name: KALPESH C
-#### Register No: 212225230121
+#### Name: NAVEEN V
+#### Register No: 212225240098
 ```
 import cv2
 import numpy as np
